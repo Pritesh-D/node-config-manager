@@ -1,0 +1,7 @@
+{
+    "name":"Config-Manager-Production",
+    "combiner": {
+        "enable": true,
+        "minify": true
+    }
+}

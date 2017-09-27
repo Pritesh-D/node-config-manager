@@ -1,0 +1,7 @@
+{
+    "name": "Config-Manager-Local",
+    "combiner": {
+        "enable": false,
+        "minify": true
+    }
+}
